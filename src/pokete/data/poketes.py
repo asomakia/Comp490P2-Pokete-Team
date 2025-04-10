@@ -1431,5 +1431,11 @@ W         W""",
     },
 }
 
+global_attack_increase = 1.75
+
+for pokete_name in pokes:
+    if pokete_name != "__fallback__" and "atc" in pokes[pokete_name] and isinstance(pokes[pokete_name]["atc"], (int, float)):
+        pokes[pokete_name]["atc"] = round(pokes[pokete_name]["atc"] * global_attack_increase)
+
 if __name__ == "__main__":
     print("\033[31;1mDo not execute this!\033[0m")

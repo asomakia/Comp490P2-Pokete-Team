@@ -18,7 +18,7 @@ class AttackProcess:
     @staticmethod
     def get_random_factor(attack, attacker) -> float:
         return random.choices(
-            [0, 0.75, 1, 1.26],
+            [0, 1, 1.25, 1.5],
             weights=[attack.miss_chance
                      + attacker.miss_chance,
                      1, 1, 1], k=1
@@ -27,17 +27,18 @@ class AttackProcess:
     @staticmethod
     def get_base_effectivity(defender: Poke, attack: Attack) -> float:
         return (
-            1.3 if defender.type.name in attack.type.effective else 0.5
+            1.5 if defender.type.name in attack.type.effective else 0.5
             if defender.type.name in attack.type.ineffective else 1
         )
 
     @staticmethod
     def get_hp(attacker: Poke, defender: Poke, attack: Attack,
                random_factor: int, eff: int) -> int:
+        global_damage_increase = 2.5
         return round((attacker.atc
                       * attack.factor
-                      / (defender.defense if defender.defense >= 1 else 1))
-                     * random_factor * eff)
+                      / (defender.defense/2 if defender.defense >= 1 else 1))
+                     * random_factor * eff * global_damage_increase)
 
     def __call__(self, attacker: Poke, defender: Poke, attack: Attack,
                  providers: list[Provider]):

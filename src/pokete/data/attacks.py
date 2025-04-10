@@ -4,11 +4,11 @@ attacks: dict[str, AttackDict] = {
     # normal attacks
     "tackle": {
         "name": "Tackle",
-        "factor": 3 / 2,
+        "factor": 5/2,
         "action": None,
         "world_action": "",
         "move": ["attack"],
-        "miss_chance": 0.2,
+        "miss_chance": 0,
         "min_lvl": 0,
         "desc": "Tackles the enemy very hard.",
         "types": ["normal"],
@@ -32,7 +32,7 @@ attacks: dict[str, AttackDict] = {
     },
     "bite": {
         "name": "Bite",
-        "factor": 1.75,
+        "factor": 3.75,
         "action": None,
         "world_action": "",
         "move": ["attack"],
@@ -74,11 +74,11 @@ attacks: dict[str, AttackDict] = {
     },
     "tail_wipe": {
         "name": "Tail Swipe",
-        "factor": 2.5,
+        "factor": 5.5,
         "action": None,
         "world_action": "",
         "move": ["attack"],
-        "miss_chance": 0.5,
+        "miss_chance": 0.25,
         "min_lvl": 10,
         "desc": "Swipes through the enemy's face.",
         "types": ["normal"],
@@ -88,11 +88,11 @@ attacks: dict[str, AttackDict] = {
     },
     "meat_skewer": {
         "name": "Meat Skewer",
-        "factor": 3.5,
+        "factor": 6.5,
         "action": None,
         "world_action": "",
         "move": ["attack"],
-        "miss_chance": 0.7,
+        "miss_chance": 0.3,
         "min_lvl": 0,
         "desc": "Drills a horn deep in the enemy's flesh.",
         "types": ["normal"],
@@ -968,6 +968,11 @@ attacks: dict[str, AttackDict] = {
         "ap": 30,
     },
 }
+global_damage_multiplier = 1.5
+
+for attack_name in attacks:
+    if "factor" in attacks[attack_name] and isinstance(attacks[attack_name]["factor"], (int, float)):
+        attacks[attack_name]["factor"] *= global_damage_multiplier
 
 if __name__ == "__main__":
     print("\033[31;1mDo not execute this!\033[0m")
