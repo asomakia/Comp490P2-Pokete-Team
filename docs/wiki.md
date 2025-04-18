@@ -197,7 +197,7 @@ A small floating ball that will give you a shock.
 
 - Type: [Electro](#types)
 - Health points: 20
-- Attack factor: 5
+- Attack factor: 9
 - Defense factor: 2
 - Initiative: 4
 - Missing chance: 0
@@ -225,7 +225,7 @@ A terrestrial crab full of accumulated electrical energy.
 
 - Type: [Electro](#types)
 - Health points: 25
-- Attack factor: 6
+- Attack factor: 10
 - Defense factor: 3
 - Initiative: 5
 - Missing chance: 0
@@ -255,7 +255,7 @@ An ancient dragon Pokete famous for destroying cities and villages.
 
 - Type: [Fire](#types)
 - Health points: 30
-- Attack factor: 8
+- Attack factor: 14
 - Defense factor: 8
 - Initiative: 6
 - Missing chance: 0
@@ -284,7 +284,7 @@ A fiery wolf straight from hell that likes to burn 11 years old butts off.
 
 - Type: [Fire](#types)
 - Health points: 20
-- Attack factor: 6
+- Attack factor: 10
 - Defense factor: 3
 - Initiative: 4
 - Missing chance: 0
@@ -315,7 +315,7 @@ A fiery wolf from hell on steroids.
 
 - Type: [Fire](#types)
 - Health points: 25
-- Attack factor: 7
+- Attack factor: 12
 - Defense factor: 4
 - Initiative: 5
 - Missing chance: 0
@@ -345,7 +345,7 @@ WW\/* *\/WW
 
 - Type: [Flying](#types)
 - Health points: 20
-- Attack factor: 3
+- Attack factor: 5
 - Defense factor: 1
 - Initiative: 6
 - Missing chance: 0
@@ -375,7 +375,7 @@ WW\/o o\/WW
 
 - Type: [Flying](#types)
 - Health points: 25
-- Attack factor: 4
+- Attack factor: 7
 - Defense factor: 2
 - Initiative: 8
 - Missing chance: 0
@@ -405,7 +405,7 @@ A dark butterfly that will schmetter you away.
 
 - Type: [Flying](#types)
 - Health points: 20
-- Attack factor: 6
+- Attack factor: 10
 - Defense factor: 2
 - Initiative: 4
 - Missing chance: 0.1
@@ -433,7 +433,7 @@ A very aggressive bird Pokete that lives near deserts; it will try to peck out y
 
 - Type: [Flying](#types)
 - Health points: 20
-- Attack factor: 8
+- Attack factor: 14
 - Defense factor: 0
 - Initiative: 7
 - Missing chance: 0
@@ -462,7 +462,7 @@ A nocturnal Pokete that is looking for small children to eat as a midnight snack
 
 - Type: [Flying](#types)
 - Health points: 20
-- Attack factor: 7
+- Attack factor: 12
 - Defense factor: 2
 - Initiative: 3
 - Missing chance: 0
@@ -496,7 +496,7 @@ A butterfly that will schmetter you away.
 
 - Type: [Flying](#types)
 - Health points: 20
-- Attack factor: 5
+- Attack factor: 9
 - Defense factor: 2
 - Initiative: 4
 - Missing chance: 0.1
@@ -524,7 +524,7 @@ A very common bird Pokete; it lives everywhere.
 
 - Type: [Flying](#types)
 - Health points: 20
-- Attack factor: 6
+- Attack factor: 10
 - Defense factor: 1
 - Initiative: 6
 - Missing chance: 0
@@ -553,7 +553,7 @@ A very aggressive bird Pokete that can only be found in the woods.
 
 - Type: [Flying](#types)
 - Health points: 20
-- Attack factor: 7
+- Attack factor: 12
 - Defense factor: 1
 - Initiative: 7
 - Missing chance: 0
@@ -593,7 +593,7 @@ A very aggressive and hard to find bird Pokete.
 
 - Type: [Flying](#types)
 - Health points: 25
-- Attack factor: 9
+- Attack factor: 16
 - Defense factor: 3
 - Initiative: 8
 - Missing chance: 0
@@ -623,7 +623,7 @@ A small heavy thing that can be found on the ground; it may reveal something won
 
 - Type: [Ground](#types)
 - Health points: 15
-- Attack factor: 2
+- Attack factor: 4
 - Defense factor: 5
 - Initiative: 1
 - Missing chance: 0
@@ -650,7 +650,7 @@ A small heavy thing that can be found on the ground; it may reveal something won
 
 - Type: [Ground](#types)
 - Health points: 15
-- Attack factor: 2
+- Attack factor: 4
 - Defense factor: 5
 - Initiative: 1
 - Missing chance: 0
@@ -677,7 +677,7 @@ A little whatever that sticks out of the ground.
 
 - Type: [Ground](#types)
 - Health points: 20
-- Attack factor: 2
+- Attack factor: 4
 - Defense factor: 4
 - Initiative: 2
 - Missing chance: 0.1
@@ -706,7 +706,7 @@ An even bigger whatever that sticks out of the ground.
 
 - Type: [Ground](#types)
 - Health points: 25
-- Attack factor: 3
+- Attack factor: 5
 - Defense factor: 5
 - Initiative: 3
 - Missing chance: 0.1
@@ -736,7 +736,7 @@ A very small whatever that sticks out of the ground.
 
 - Type: [Ground](#types)
 - Health points: 20
-- Attack factor: 1
+- Attack factor: 2
 - Defense factor: 3
 - Initiative: 1
 - Missing chance: 0.1
@@ -764,7 +764,7 @@ A small caterpillar found on leaves.
 
 - Type: [Ground](#types)
 - Health points: 20
-- Attack factor: 3
+- Attack factor: 5
 - Defense factor: 4
 - Initiative: 3
 - Missing chance: 0.1
@@ -791,7 +791,7 @@ A small caterpillar found on leaves.
 
 - Type: [Ground](#types)
 - Health points: 20
-- Attack factor: 3
+- Attack factor: 5
 - Defense factor: 4
 - Initiative: 3
 - Missing chance: 0.1
@@ -818,7 +818,7 @@ A big chunk of stone and dirt that rolls around.
 
 - Type: [Ground](#types)
 - Health points: 25
-- Attack factor: 2
+- Attack factor: 4
 - Defense factor: 5
 - Initiative: 3
 - Missing chance: 0
@@ -848,7 +848,7 @@ A small ice cube.
 
 - Type: [Ice](#types)
 - Health points: 20
-- Attack factor: 3
+- Attack factor: 5
 - Defense factor: 3
 - Initiative: 1
 - Missing chance: 0.1
@@ -876,7 +876,7 @@ A block of ice.
 
 - Type: [Ice](#types)
 - Health points: 25
-- Attack factor: 4
+- Attack factor: 7
 - Defense factor: 4
 - Initiative: 2
 - Missing chance: 0.1
@@ -906,7 +906,7 @@ A majestic horse that is always looking for something to pick with its horn.
 
 - Type: [Normal](#types)
 - Health points: 20
-- Attack factor: 6
+- Attack factor: 10
 - Defense factor: 2
 - Initiative: 3
 - Missing chance: 0
@@ -939,7 +939,7 @@ A teenage unicorn in the middle of puberty.
 
 - Type: [Normal](#types)
 - Health points: 20
-- Attack factor: 5
+- Attack factor: 9
 - Defense factor: 1
 - Initiative: 4
 - Missing chance: 0.2
@@ -967,7 +967,7 @@ A cow-like creature found in meadows.
 
 - Type: [Normal](#types)
 - Health points: 20
-- Attack factor: 2
+- Attack factor: 4
 - Defense factor: 3
 - Initiative: 2
 - Missing chance: 0
@@ -996,7 +996,7 @@ A damn dangerous and enourmous rat; it will bite of your leg.
 
 - Type: [Normal](#types)
 - Health points: 25
-- Attack factor: 7
+- Attack factor: 12
 - Defense factor: 3
 - Initiative: 7
 - Missing chance: 0
@@ -1025,7 +1025,7 @@ An annoying rat.
 
 - Type: [Normal](#types)
 - Health points: 20
-- Attack factor: 4
+- Attack factor: 7
 - Defense factor: 2
 - Initiative: 6
 - Missing chance: 0
@@ -1060,7 +1060,7 @@ A bush, and just a bush. But watch out!
 
 - Type: [Plant](#types)
 - Health points: 25
-- Attack factor: 2
+- Attack factor: 4
 - Defense factor: 1
 - Initiative: 1
 - Missing chance: 0
@@ -1090,7 +1090,7 @@ A not at all suspicious plant.
 
 - Type: [Plant](#types)
 - Health points: 25
-- Attack factor: 3
+- Attack factor: 5
 - Defense factor: 5
 - Initiative: 2
 - Missing chance: 0.1
@@ -1121,7 +1121,7 @@ A unsuspicious plant.
 
 - Type: [Plant](#types)
 - Health points: 20
-- Attack factor: 3
+- Attack factor: 5
 - Defense factor: 3
 - Initiative: 1
 - Missing chance: 0.1
@@ -1149,7 +1149,7 @@ A small plant Pokete found burried in the ground.
 
 - Type: [Plant](#types)
 - Health points: 15
-- Attack factor: 3
+- Attack factor: 5
 - Defense factor: 5
 - Initiative: 1
 - Missing chance: 0.1
@@ -1178,7 +1178,7 @@ A small plant Pokete deeply burried in the ground.
 
 - Type: [Plant](#types)
 - Health points: 20
-- Attack factor: 4
+- Attack factor: 7
 - Defense factor: 6
 - Initiative: 1
 - Missing chance: 0.1
@@ -1207,7 +1207,7 @@ A small plant Pokete found in the ground.
 
 - Type: [Plant](#types)
 - Health points: 25
-- Attack factor: 5
+- Attack factor: 9
 - Defense factor: 7
 - Initiative: 2
 - Missing chance: 0.1
@@ -1265,7 +1265,7 @@ A scary and dangerous apple tree.
 
 - Type: [Plant](#types)
 - Health points: 25
-- Attack factor: 2
+- Attack factor: 4
 - Defense factor: 2
 - Initiative: 2
 - Missing chance: 0
@@ -1295,7 +1295,7 @@ A plant Pokete found in Agrawos; it has special 'Powers'.
 
 - Type: [Plant](#types)
 - Health points: 20
-- Attack factor: 3
+- Attack factor: 5
 - Defense factor: 2
 - Initiative: 2
 - Missing chance: 0.1
@@ -1323,7 +1323,7 @@ A fucking dangerous and enormous snake Pokete.
 
 - Type: [Poison](#types)
 - Health points: 25
-- Attack factor: 5
+- Attack factor: 9
 - Defense factor: 1
 - Initiative: 4
 - Missing chance: 0
@@ -1353,7 +1353,7 @@ w        w
 
 - Type: [Poison](#types)
 - Health points: 20
-- Attack factor: 3
+- Attack factor: 5
 - Defense factor: 0
 - Initiative: 3
 - Missing chance: 0
@@ -1381,7 +1381,7 @@ W         W
 
 - Type: [Poison](#types)
 - Health points: 25
-- Attack factor: 5
+- Attack factor: 9
 - Defense factor: 1
 - Initiative: 5
 - Missing chance: 0
@@ -1411,7 +1411,7 @@ A dangerous snake Pokete.
 
 - Type: [Poison](#types)
 - Health points: 20
-- Attack factor: 3
+- Attack factor: 5
 - Defense factor: 0
 - Initiative: 3
 - Missing chance: 0
@@ -1442,7 +1442,7 @@ A big and heavy stone made from one of the hardest materials.
 
 - Type: [Stone](#types)
 - Health points: 30
-- Attack factor: 2
+- Attack factor: 4
 - Defense factor: 13
 - Initiative: 5
 - Missing chance: 0
@@ -1471,7 +1471,7 @@ A precious diamond that can only be found in the darkest caves.
 
 - Type: [Stone](#types)
 - Health points: 20
-- Attack factor: 2
+- Attack factor: 4
 - Defense factor: 15
 - Initiative: 2
 - Missing chance: 0.1
@@ -1500,7 +1500,7 @@ A small but powerful stone Pokete that lives in the mountains.
 
 - Type: [Stone](#types)
 - Health points: 20
-- Attack factor: 1
+- Attack factor: 2
 - Defense factor: 2
 - Initiative: 3
 - Missing chance: 0
@@ -1530,7 +1530,7 @@ A powerful and heavy stone Pokete that lives in mountain caves.
 
 - Type: [Stone](#types)
 - Health points: 25
-- Attack factor: 2
+- Attack factor: 4
 - Defense factor: 3
 - Initiative: 4
 - Missing chance: 0
@@ -1560,7 +1560,7 @@ A squared stone that can be readily found just lying around.
 
 - Type: [Stone](#types)
 - Health points: 25
-- Attack factor: 2
+- Attack factor: 4
 - Defense factor: 4
 - Initiative: 5
 - Missing chance: 0
@@ -1598,7 +1598,7 @@ A ghost Pokete that will scare your pants off.
 
 - Type: [Undead](#types)
 - Health points: 25
-- Attack factor: 3
+- Attack factor: 5
 - Defense factor: 2
 - Initiative: 7
 - Missing chance: 0
@@ -1628,7 +1628,7 @@ Dead or alive entity with slow movement and mental ability.
 
 - Type: [Undead](#types)
 - Health points: 20
-- Attack factor: 2
+- Attack factor: 4
 - Defense factor: 1
 - Initiative: 1
 - Missing chance: 0
@@ -1656,7 +1656,7 @@ A ball floating around in dark woods and caves, that will confuse the shit out o
 
 - Type: [Undead](#types)
 - Health points: 20
-- Attack factor: 1
+- Attack factor: 2
 - Defense factor: 1
 - Initiative: 2
 - Missing chance: 0.1
@@ -1683,7 +1683,7 @@ A scary ghost Pokete that lives in caves and old houses.
 
 - Type: [Undead](#types)
 - Health points: 20
-- Attack factor: 2
+- Attack factor: 4
 - Defense factor: 1
 - Initiative: 6
 - Missing chance: 0
@@ -1714,7 +1714,7 @@ The dark and fiery souls of those who got burned to death by the hot sun!
 
 - Type: [Undead](#types)
 - Health points: 20
-- Attack factor: 4
+- Attack factor: 7
 - Defense factor: 2
 - Initiative: 5
 - Missing chance: 1
@@ -1743,7 +1743,7 @@ Very delicious and low fat water Pokete.
 
 - Type: [Water](#types)
 - Health points: 20
-- Attack factor: 2
+- Attack factor: 4
 - Defense factor: 1
 - Initiative: 1
 - Missing chance: 0
@@ -1775,7 +1775,7 @@ A shell that lives deep in the sea or near bays; it's pretty hard to crack.
 
 - Type: [Water](#types)
 - Health points: 25
-- Attack factor: 2
+- Attack factor: 4
 - Defense factor: 7
 - Initiative: 3
 - Missing chance: 0
@@ -1805,7 +1805,7 @@ A crusty Pokete that loves to pinch big toes.
 
 - Type: [Water](#types)
 - Health points: 30
-- Attack factor: 3
+- Attack factor: 5
 - Defense factor: 8
 - Initiative: 4
 - Missing chance: 0
@@ -1864,7 +1864,7 @@ A freshwater fighting fish Pokete.
 
 - Type: [Water](#types)
 - Health points: 25
-- Attack factor: 5
+- Attack factor: 9
 - Defense factor: 3
 - Initiative: 1
 - Missing chance: 0
@@ -1893,7 +1893,7 @@ A crusty Pokete that will pinch your toes and check whether or not you borrowed 
 
 - Type: [Water](#types)
 - Health points: 35
-- Attack factor: 4
+- Attack factor: 7
 - Defense factor: 9
 - Initiative: 5
 - Missing chance: 0
@@ -1919,7 +1919,7 @@ Gives the enemy a shock.
 
 - Type: [Electro](#types)
 - Minimum Level: 0
-- Attack factor: 1.5
+- Attack factor: 2.25
 - Missing chance: 0.2
 - Attack points: 30
 - Effect: None
@@ -1929,7 +1929,7 @@ Charges up the Pokete.
 
 - Type: [Electro](#types)
 - Minimum Level: 10
-- Attack factor: 0
+- Attack factor: 0.0
 - Missing chance: 0
 - Attack points: 15
 - Effect: None
@@ -1939,7 +1939,7 @@ Gives the enemy a massive shock.
 
 - Type: [Electro](#types)
 - Minimum Level: 15
-- Attack factor: 5
+- Attack factor: 7.5
 - Missing chance: 0.2
 - Attack points: 10
 - Effect: [Paralyzation](#paralyzation)
@@ -1950,7 +1950,7 @@ Burns and bites the enemy at the same time.
 
 - Type: [Fire](#types)
 - Minimum Level: 0
-- Attack factor: 2
+- Attack factor: 3.0
 - Missing chance: 0.2
 - Attack points: 15
 - Effect: [Burning](#burning)
@@ -1960,7 +1960,7 @@ Throws ashes in the enemy's eyes.
 
 - Type: [Fire](#types)
 - Minimum Level: 15
-- Attack factor: 0.5
+- Attack factor: 0.75
 - Missing chance: 0
 - Attack points: 15
 - Effect: None
@@ -1970,7 +1970,7 @@ Hans! Get ze Flammenwerfer!
 
 - Type: [Fire](#types)
 - Minimum Level: 15
-- Attack factor: 2.5
+- Attack factor: 3.75
 - Missing chance: 0.3
 - Attack points: 10
 - Effect: [Burning](#burning)
@@ -1980,7 +1980,7 @@ Casts a fireball at the enemy.
 
 - Type: [Fire](#types)
 - Minimum Level: 25
-- Attack factor: 4
+- Attack factor: 6.0
 - Missing chance: 0
 - Attack points: 10
 - Effect: None
@@ -1991,7 +1991,7 @@ Gives the Pokete the ability to fly you around.
 
 - Type: [Flying](#types)
 - Minimum Level: 0
-- Attack factor: 1.5
+- Attack factor: 2.25
 - Missing chance: 0.1
 - Attack points: 30
 - Effect: None
@@ -2001,7 +2001,7 @@ A peck at the enemy's weakest spot.
 
 - Type: [Flying](#types)
 - Minimum Level: 0
-- Attack factor: 1.7
+- Attack factor: 2.55
 - Missing chance: 0.1
 - Attack points: 30
 - Effect: None
@@ -2011,7 +2011,7 @@ Casts a gust of wind at the enemy.
 
 - Type: [Flying](#types)
 - Minimum Level: 0
-- Attack factor: 2
+- Attack factor: 3.0
 - Missing chance: 0
 - Attack points: 20
 - Effect: None
@@ -2021,7 +2021,7 @@ Casts a vicious and violent storm full of rain and hail, hitting the enemy in it
 
 - Type: [Flying](#types)
 - Minimum Level: 0
-- Attack factor: 6
+- Attack factor: 9.0
 - Missing chance: 0
 - Attack points: 10
 - Effect: None
@@ -2031,7 +2031,7 @@ Schmetters the enemy away.
 
 - Type: [Flying](#types)
 - Minimum Level: 0
-- Attack factor: 1.7
+- Attack factor: 2.55
 - Missing chance: 0.1
 - Attack points: 30
 - Effect: None
@@ -2041,7 +2041,7 @@ Pecks at one of the enemy's eyes.
 
 - Type: [Flying](#types)
 - Minimum Level: 0
-- Attack factor: 2.5
+- Attack factor: 3.75
 - Missing chance: 0.6
 - Attack points: 10
 - Effect: None
@@ -2051,7 +2051,7 @@ Hits the enemy with a wing.
 
 - Type: [Flying](#types)
 - Minimum Level: 0
-- Attack factor: 2.5
+- Attack factor: 3.75
 - Missing chance: 0.5
 - Attack points: 10
 - Effect: None
@@ -2061,7 +2061,7 @@ Regenerates 2 HP.
 
 - Type: [Flying](#types)
 - Minimum Level: 15
-- Attack factor: 0
+- Attack factor: 0.0
 - Missing chance: 0
 - Attack points: 10
 - Effect: None
@@ -2071,7 +2071,7 @@ A harsh pecking on the enemy's head.
 
 - Type: [Flying](#types)
 - Minimum Level: 0
-- Attack factor: 2
+- Attack factor: 3.0
 - Missing chance: 0.4
 - Attack points: 10
 - Effect: None
@@ -2082,7 +2082,7 @@ Moves the ground with tremendous force.
 
 - Type: [Ground](#types)
 - Minimum Level: 0
-- Attack factor: 4
+- Attack factor: 6.0
 - Missing chance: 0
 - Attack points: 10
 - Effect: None
@@ -2092,7 +2092,7 @@ Rolls over the enemy.
 
 - Type: [Ground](#types)
 - Minimum Level: 0
-- Attack factor: 2.5
+- Attack factor: 3.75
 - Missing chance: 0.2
 - Attack points: 15
 - Effect: None
@@ -2102,7 +2102,7 @@ Breaks the enemy's toes.
 
 - Type: [Ground](#types)
 - Minimum Level: 0
-- Attack factor: 2.5
+- Attack factor: 3.75
 - Missing chance: 0.3
 - Attack points: 20
 - Effect: None
@@ -2112,7 +2112,7 @@ Damages the enemy with an unpredictable hit out of the ground.
 
 - Type: [Ground](#types)
 - Minimum Level: 0
-- Attack factor: 3
+- Attack factor: 4.5
 - Missing chance: 0.1
 - Attack points: 10
 - Effect: None
@@ -2122,7 +2122,7 @@ Collects a great amount of energy in the Pokete's tip.
 
 - Type: [Ground](#types)
 - Minimum Level: 0
-- Attack factor: 0
+- Attack factor: 0.0
 - Missing chance: 0
 - Attack points: 15
 - Effect: None
@@ -2132,7 +2132,7 @@ Makes the Pokete hide under the ground to minimize damage.
 
 - Type: [Ground](#types)
 - Minimum Level: 20
-- Attack factor: 0
+- Attack factor: 0.0
 - Missing chance: 0
 - Attack points: 15
 - Effect: None
@@ -2143,7 +2143,7 @@ Freezes the enemy.
 
 - Type: [Ice](#types)
 - Minimum Level: 10
-- Attack factor: 0
+- Attack factor: 0.0
 - Missing chance: 0.1
 - Attack points: 10
 - Effect: [Freezing](#freezing)
@@ -2153,7 +2153,7 @@ Summons a snow storm full of ice spikes onto the enemy.
 
 - Type: [Ice](#types)
 - Minimum Level: 0
-- Attack factor: 2.5
+- Attack factor: 3.75
 - Missing chance: 0
 - Attack points: 20
 - Effect: None
@@ -2163,7 +2163,7 @@ Stabs a giant ice spike into the enemy.
 
 - Type: [Ice](#types)
 - Minimum Level: 20
-- Attack factor: 5
+- Attack factor: 7.5
 - Missing chance: 0.3
 - Attack points: 10
 - Effect: None
@@ -2173,7 +2173,7 @@ Stabs the enemy with some small ice spikes.
 
 - Type: [Ice](#types)
 - Minimum Level: 0
-- Attack factor: 1.75
+- Attack factor: 2.625
 - Missing chance: 0
 - Attack points: 30
 - Effect: None
@@ -2184,8 +2184,8 @@ Tackles the enemy very hard.
 
 - Type: [Normal](#types)
 - Minimum Level: 0
-- Attack factor: 1.5
-- Missing chance: 0.2
+- Attack factor: 3.75
+- Missing chance: 0
 - Attack points: 30
 - Effect: None
 
@@ -2194,7 +2194,7 @@ So loud that it confuses the enemy.
 
 - Type: [Normal](#types)
 - Minimum Level: 0
-- Attack factor: 0
+- Attack factor: 0.0
 - Missing chance: 0
 - Attack points: 10
 - Effect: None
@@ -2204,7 +2204,7 @@ A hard bite with sharp teeth.
 
 - Type: [Normal](#types)
 - Minimum Level: 0
-- Attack factor: 1.75
+- Attack factor: 5.625
 - Missing chance: 0.1
 - Attack points: 30
 - Effect: None
@@ -2214,7 +2214,7 @@ The hardest bite you can think of.
 
 - Type: [Normal](#types)
 - Minimum Level: 30
-- Attack factor: 8
+- Attack factor: 12.0
 - Missing chance: 0.1
 - Attack points: 5
 - Effect: None
@@ -2224,7 +2224,7 @@ Chokes the enemy and makes it weaker.
 
 - Type: [Normal](#types)
 - Minimum Level: 0
-- Attack factor: 1
+- Attack factor: 1.5
 - Missing chance: 0.2
 - Attack points: 15
 - Effect: [Paralyzation](#paralyzation)
@@ -2234,8 +2234,8 @@ Swipes through the enemy's face.
 
 - Type: [Normal](#types)
 - Minimum Level: 10
-- Attack factor: 2.5
-- Missing chance: 0.5
+- Attack factor: 8.25
+- Missing chance: 0.25
 - Attack points: 10
 - Effect: None
 
@@ -2244,8 +2244,8 @@ Drills a horn deep in the enemy's flesh.
 
 - Type: [Normal](#types)
 - Minimum Level: 0
-- Attack factor: 3.5
-- Missing chance: 0.7
+- Attack factor: 9.75
+- Missing chance: 0.3
 - Attack points: 10
 - Effect: None
 
@@ -2254,7 +2254,7 @@ Makes the enemy sleepy.
 
 - Type: [Normal](#types)
 - Minimum Level: 15
-- Attack factor: 0
+- Attack factor: 0.0
 - Missing chance: 0.2
 - Attack points: 15
 - Effect: [Sleep](#sleep)
@@ -2264,7 +2264,7 @@ Makes the Pokete angry and strong.
 
 - Type: [Normal](#types)
 - Minimum Level: 10
-- Attack factor: 0
+- Attack factor: 0.0
 - Missing chance: 0
 - Attack points: 10
 - Effect: None
@@ -2274,7 +2274,7 @@ Thows web towards enemy in order to immobilize.
 
 - Type: [Normal](#types)
 - Minimum Level: 0
-- Attack factor: 1
+- Attack factor: 1.5
 - Missing chance: 0.2
 - Attack points: 10
 - Effect: [Paralyzation](#paralyzation)
@@ -2285,7 +2285,7 @@ Spreads a special smell that will make the enemy confused but very happy.
 
 - Type: [Plant](#types)
 - Minimum Level: 0
-- Attack factor: 0
+- Attack factor: 0.0
 - Missing chance: 0.1
 - Attack points: 10
 - Effect: [Confusion](#confusion)
@@ -2295,7 +2295,7 @@ Makes an apple drop on the enemy's head.
 
 - Type: [Plant](#types)
 - Minimum Level: 0
-- Attack factor: 1.7
+- Attack factor: 2.55
 - Missing chance: 0.3
 - Attack points: 30
 - Effect: None
@@ -2305,7 +2305,7 @@ Encourages and strengthens all Poketes in your team.
 
 - Type: [Plant](#types)
 - Minimum Level: 20
-- Attack factor: 0
+- Attack factor: 0.0
 - Missing chance: 0
 - Attack points: 10
 - Effect: None
@@ -2315,7 +2315,7 @@ Sucks 2 HP from the enemy and adds to its own.
 
 - Type: [Plant](#types)
 - Minimum Level: 0
-- Attack factor: 0
+- Attack factor: 0.0
 - Missing chance: 0
 - Attack points: 10
 - Effect: None
@@ -2325,7 +2325,7 @@ Sucks 1 HP from the enemy and adds to its own.
 
 - Type: [Plant](#types)
 - Minimum Level: 0
-- Attack factor: 0
+- Attack factor: 0.0
 - Missing chance: 0
 - Attack points: 20
 - Effect: None
@@ -2335,7 +2335,7 @@ Uses old and crusty roots to strangle the enemy.
 
 - Type: [Plant](#types)
 - Minimum Level: 20
-- Attack factor: 1
+- Attack factor: 1.5
 - Missing chance: 0.2
 - Attack points: 15
 - Effect: [Paralyzation](#paralyzation)
@@ -2345,7 +2345,7 @@ Uses old and crusty roots to slap the enemy.
 
 - Type: [Plant](#types)
 - Minimum Level: 0
-- Attack factor: 1.5
+- Attack factor: 2.25
 - Missing chance: 0.2
 - Attack points: 30
 - Effect: None
@@ -2355,7 +2355,7 @@ An ancient attack that summons the deepest and oldest roots from deep in the ear
 
 - Type: [Plant](#types)
 - Minimum Level: 0
-- Attack factor: 50
+- Attack factor: 75.0
 - Missing chance: 0
 - Attack points: 1
 - Effect: None
@@ -2365,7 +2365,7 @@ Blasts a bunch of spiky leaves at the enemy.
 
 - Type: [Plant](#types)
 - Minimum Level: 20
-- Attack factor: 5
+- Attack factor: 7.5
 - Missing chance: 0
 - Attack points: 10
 - Effect: None
@@ -2375,7 +2375,7 @@ Hardens its outer layers to protect itself.
 
 - Type: [Plant](#types)
 - Minimum Level: 0
-- Attack factor: 0
+- Attack factor: 0.0
 - Missing chance: 0
 - Attack points: 15
 - Effect: None
@@ -2385,7 +2385,7 @@ Ejects some poisonous spores onto the enemy.
 
 - Type: [Plant](#types)
 - Minimum Level: 0
-- Attack factor: 0
+- Attack factor: 0.0
 - Missing chance: 0
 - Attack points: 15
 - Effect: [Poison](#poison)
@@ -2395,7 +2395,7 @@ Stabs the enemy with a branch, preferably in the enemy's eyes.
 
 - Type: [Plant](#types)
 - Minimum Level: 15
-- Attack factor: 4
+- Attack factor: 6.0
 - Missing chance: 0.2
 - Attack points: 10
 - Effect: None
@@ -2406,7 +2406,7 @@ Makes the enemy weaker.
 
 - Type: [Poison](#types)
 - Minimum Level: 0
-- Attack factor: 1
+- Attack factor: 1.5
 - Missing chance: 0.3
 - Attack points: 10
 - Effect: [Poison](#poison)
@@ -2416,7 +2416,7 @@ Stabs a venomous thorn into the enemy's flesh.
 
 - Type: [Poison](#types)
 - Minimum Level: 15
-- Attack factor: 2.75
+- Attack factor: 4.125
 - Missing chance: 0.1
 - Attack points: 20
 - Effect: [Poison](#poison)
@@ -2427,7 +2427,7 @@ Fires pebbles at the enemy and makes it blind.
 
 - Type: [Stone](#types)
 - Minimum Level: 0
-- Attack factor: 1
+- Attack factor: 1.5
 - Missing chance: 0
 - Attack points: 5
 - Effect: None
@@ -2437,7 +2437,7 @@ Throws sand at the enemy and makes it blind.
 
 - Type: [Stone](#types)
 - Minimum Level: 0
-- Attack factor: 1
+- Attack factor: 1.5
 - Missing chance: 0
 - Attack points: 5
 - Effect: None
@@ -2447,7 +2447,7 @@ Upgrades defense and attack points.
 
 - Type: [Stone](#types)
 - Minimum Level: 0
-- Attack factor: 0
+- Attack factor: 0.0
 - Missing chance: 0
 - Attack points: 15
 - Effect: None
@@ -2457,7 +2457,7 @@ Throws an Euler brick at the enemy.
 
 - Type: [Stone](#types)
 - Minimum Level: 15
-- Attack factor: 2.5
+- Attack factor: 3.75
 - Missing chance: 0.3
 - Attack points: 15
 - Effect: None
@@ -2467,7 +2467,7 @@ Crushes the enemy between two heavy stones.
 
 - Type: [Stone](#types)
 - Minimum Level: 0
-- Attack factor: 2
+- Attack factor: 3.0
 - Missing chance: 0.3
 - Attack points: 20
 - Effect: None
@@ -2477,7 +2477,7 @@ Pounds the enemy with the Pokete's full weight.
 
 - Type: [Stone](#types)
 - Minimum Level: 15
-- Attack factor: 5
+- Attack factor: 7.5
 - Missing chance: 0.1
 - Attack points: 5
 - Effect: None
@@ -2487,7 +2487,7 @@ Stabs the enemy with a giant diamond spike.
 
 - Type: [Stone](#types)
 - Minimum Level: 15
-- Attack factor: 5
+- Attack factor: 7.5
 - Missing chance: 0.1
 - Attack points: 5
 - Effect: None
@@ -2497,7 +2497,7 @@ Shines a bright light at the enemy and dazzles them.
 
 - Type: [Stone](#types)
 - Minimum Level: 10
-- Attack factor: 1.5
+- Attack factor: 2.25
 - Missing chance: 0.2
 - Attack points: 20
 - Effect: [Paralyzation](#paralyzation)
@@ -2507,7 +2507,7 @@ Throws a heck of a lot of diamond spikes at the enemy.
 
 - Type: [Stone](#types)
 - Minimum Level: 20
-- Attack factor: 2
+- Attack factor: 3.0
 - Missing chance: 0
 - Attack points: 20
 - Effect: None
@@ -2518,7 +2518,7 @@ Touches the enemy's heart with cold, ghostly claws.
 
 - Type: [Undead](#types)
 - Minimum Level: 20
-- Attack factor: 4
+- Attack factor: 6.0
 - Missing chance: 0
 - Attack points: 10
 - Effect: None
@@ -2528,7 +2528,7 @@ Confuses the enemy.
 
 - Type: [Undead](#types)
 - Minimum Level: 0
-- Attack factor: 0
+- Attack factor: 0.0
 - Missing chance: 0.2
 - Attack points: 40
 - Effect: [Confusion](#confusion)
@@ -2538,7 +2538,7 @@ Causes confusion deep in the enemy's mind.
 
 - Type: [Undead](#types)
 - Minimum Level: 0
-- Attack factor: 0
+- Attack factor: 0.0
 - Missing chance: 0.2
 - Attack points: 15
 - Effect: [Confusion](#confusion)
@@ -2549,7 +2549,7 @@ Fires some bubbles at the enemy.
 
 - Type: [Water](#types)
 - Minimum Level: 0
-- Attack factor: 2
+- Attack factor: 3.0
 - Missing chance: 0.2
 - Attack points: 20
 - Effect: None
@@ -2559,7 +2559,7 @@ Summons rainy clouds.
 
 - Type: [Water](#types)
 - Minimum Level: 0
-- Attack factor: 2
+- Attack factor: 3.0
 - Missing chance: 0
 - Attack points: 10
 - Effect: None
@@ -2569,7 +2569,7 @@ A deadly bubble.
 
 - Type: [Water](#types)
 - Minimum Level: 0
-- Attack factor: 6
+- Attack factor: 9.0
 - Missing chance: 0
 - Attack points: 10
 - Effect: None
@@ -2579,7 +2579,7 @@ Creates a giant bubble that protects the Pokete.
 
 - Type: [Water](#types)
 - Minimum Level: 0
-- Attack factor: 0
+- Attack factor: 0.0
 - Missing chance: 0
 - Attack points: 10
 - Effect: None
@@ -2589,7 +2589,7 @@ Gives the enemy a cold and wet slap in the face.
 
 - Type: [Water](#types)
 - Minimum Level: 10
-- Attack factor: 2.5
+- Attack factor: 3.75
 - Missing chance: 0.1
 - Attack points: 15
 - Effect: None
@@ -2599,7 +2599,7 @@ Pinches the enemy with its strong shell.
 
 - Type: [Water](#types)
 - Minimum Level: 15
-- Attack factor: 2.5
+- Attack factor: 3.75
 - Missing chance: 0.1
 - Attack points: 20
 - Effect: None
