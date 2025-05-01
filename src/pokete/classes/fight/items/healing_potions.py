@@ -16,13 +16,13 @@ class GenericeHealingPotion(FightItem, ABC):
         obj.curr.oldhp = obj.curr.hp
         obj.curr.hp = min(obj.curr.full_hp, obj.curr.hp + self.hp)
         obj.curr.hp_bar.update(obj.curr.oldhp)
-        logging.info("[Fighitem][%s] Used", self.name)
+        logging.info("[FightItem][%s] Used", self.name)
         return RoundContinuation.ENEMY_ATTACK
 
 class HealingPotion(GenericeHealingPotion):
     def __init__(self):
-        super().__init__(5, "healing_potion")
+        super().__init__(15, "healing_potion")
 
 class SuperPotion(GenericeHealingPotion):
     def __init__(self):
-        super().__init__(15, "super_potion")
+        super().__init__(25, "super_potion")

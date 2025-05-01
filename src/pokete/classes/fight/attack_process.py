@@ -34,7 +34,7 @@ class AttackProcess:
     @staticmethod
     def get_hp(attacker: Poke, defender: Poke, attack: Attack,
                random_factor: int, eff: int) -> int:
-        global_damage_increase = 2.5
+        global_damage_increase = 4
         return round((attacker.atc
                       * attack.factor
                       / (defender.defense/2 if defender.defense >= 1 else 1))

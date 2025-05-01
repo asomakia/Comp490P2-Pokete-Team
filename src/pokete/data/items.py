@@ -20,14 +20,14 @@ items: dict[str, ItemDict] = {
         "fn": "hyperball"
     },
     "healing_potion": {
-        "pretty_name": "Healing potion",
-        "desc": "Heals a Pokete with 5 HP",
+        "pretty_name": "Healing Potion",
+        "desc": "Heals a Pokete's HP by 15",
         "price": 15,
         "fn": "heal_potion"
     },
     "super_potion": {
-        "pretty_name": "Super potion",
-        "desc": "Heals a Pokete with 15 HP",
+        "pretty_name": "Super Potion",
+        "desc": "Heals a Pokete's HP by 25",
         "price": 25,
         "fn": "super_potion"
     },
