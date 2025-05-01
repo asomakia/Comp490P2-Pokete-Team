@@ -165,11 +165,11 @@ You can find different versions of this wiki:
 3. [Types](#types)
 4. [Items](#items)
    1. [AP potion](#ap-potion)
-   2. [Healing potion](#healing-potion)
+   2. [Healing Potion](#healing-potion)
    3. [Hyperball](#hyperball)
    4. [Poketeball](#poketeball)
    5. ['Shut the fuck up' stone](#shut-the-fuck-up-stone)
-   6. [Super potion](#super-potion)
+   6. [Super Potion](#super-potion)
    7. [Superball](#superball)
    8. [Treat](#treat)
 5. [Effects](#effects)
@@ -2630,8 +2630,8 @@ Refills the Poketes attack APs.
 - Price: 100
 - Can be used in fights: Yes
 
-### Healing potion
-Heals a Pokete with 5 HP
+### Healing Potion
+Heals a Pokete's HP by 15
 
 - Price: 15
 - Can be used in fights: Yes
@@ -2654,8 +2654,8 @@ Makes trainer leaving you alone
 - Price: None
 - Can be used in fights: No
 
-### Super potion
-Heals a Pokete with 15 HP
+### Super Potion
+Heals a Pokete's HP by 25
 
 - Price: 25
 - Can be used in fights: Yes
