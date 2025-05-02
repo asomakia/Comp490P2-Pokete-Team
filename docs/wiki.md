@@ -2631,7 +2631,7 @@ Refills the Poketes attack APs.
 - Can be used in fights: Yes
 
 ### Healing Potion
-Heals a Pokete's HP by 15
+Heals a Pokete's HP by 3
 
 - Price: 15
 - Can be used in fights: Yes
@@ -2655,7 +2655,7 @@ Makes trainer leaving you alone
 - Can be used in fights: No
 
 ### Super Potion
-Heals a Pokete's HP by 25
+Heals a Pokete's HP by 7
 
 - Price: 25
 - Can be used in fights: Yes
