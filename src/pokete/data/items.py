@@ -15,7 +15,7 @@ items: dict[str, ItemDict] = {
     },
     "hyperball": {
         "pretty_name": "Hyperball",
-        "desc": "For catching Poketes with a waaay higher chance",
+        "desc": "A ball you can use to catch Poketes with the maximum chance",
         "price": None,
         "fn": "hyperball"
     },
