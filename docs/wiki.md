@@ -2637,7 +2637,7 @@ Heals a Pokete's HP by 3
 - Can be used in fights: Yes
 
 ### Hyperball
-For catching Poketes with a waaay higher chance
+A ball you can use to catch Poketes with the maximum chance
 
 - Price: None
 - Can be used in fights: Yes
