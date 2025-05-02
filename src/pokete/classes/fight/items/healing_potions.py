@@ -21,8 +21,8 @@ class GenericeHealingPotion(FightItem, ABC):
 
 class HealingPotion(GenericeHealingPotion):
     def __init__(self):
-        super().__init__(15, "healing_potion")
+        super().__init__(3, "healing_potion")
 
 class SuperPotion(GenericeHealingPotion):
     def __init__(self):
-        super().__init__(25, "super_potion")
+        super().__init__(7, "super_potion")

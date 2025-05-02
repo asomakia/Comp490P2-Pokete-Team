@@ -21,13 +21,13 @@ items: dict[str, ItemDict] = {
     },
     "healing_potion": {
         "pretty_name": "Healing Potion",
-        "desc": "Heals a Pokete's HP by 15",
+        "desc": "Heals a Pokete's HP by 3",
         "price": 15,
         "fn": "heal_potion"
     },
     "super_potion": {
         "pretty_name": "Super Potion",
-        "desc": "Heals a Pokete's HP by 25",
+        "desc": "Heals a Pokete's HP by 7",
         "price": 25,
         "fn": "super_potion"
     },
