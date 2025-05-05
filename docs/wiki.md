@@ -1123,7 +1123,7 @@ Sweat and juicy plant pokete thats' looks and thiccness will drive you crazy.
 
 - Type: [Plant](#types)
 - Health points: 25
-- Attack factor: 3
+- Attack factor: 5
 - Defense factor: 2
 - Initiative: 1
 - Missing chance: 0
@@ -2437,7 +2437,7 @@ Unleashes a sweet scent that's turning heads and minds alike.
 
 - Type: [Plant](#types)
 - Minimum Level: 0
-- Attack factor: 0
+- Attack factor: 0.0
 - Missing chance: 0
 - Attack points: 15
 - Effect: [Confusion](#confusion)
