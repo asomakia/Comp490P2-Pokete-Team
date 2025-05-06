@@ -43,6 +43,13 @@ class Audio:
         )
         self.__curr.start()
 
+    def play_once(self, song):
+        """Plays a song once (no loop)"""
+        if settings("audio").val and self.use_audio:
+            from pokete import playsound
+            playsound.playsound(str(MUSIC_PATH / song), settings("volume").val)
+
+
     def switch(self, song):
         """Switched the played song
         ARGS:
