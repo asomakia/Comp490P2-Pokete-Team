@@ -4,10 +4,11 @@ from typing import TypeVar
 from .game_map import CompatMap
 from .periodic_event_manager import PeriodicEventManager
 from .ui.overview import Overview
+from typing import Generic
 
-T = TypeVar('T')
+T = TypeVar("T")
 
-class Context[T]:
+class Context(Generic[T]):
     def __init__(
         self, pevm: PeriodicEventManager, _map: CompatMap,
         overview: Overview, figure: T
