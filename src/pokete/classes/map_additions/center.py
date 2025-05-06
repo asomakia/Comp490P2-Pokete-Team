@@ -108,8 +108,19 @@ class CenterInteract(se.Object, MapInteract):
                 )
                 break
             elif action.triggers(Action.CANCEL, Action.ACT_3):
+                mvp.movemap.text(
+                    self.ctx,
+                    mvp.movemap.bmap.inner.x - mvp.movemap.x + 8, 3,
+                    [ "You are now cuddling"]
+                )
                 break
-            loops.std(self.ctx)
+            else:
+                mvp.movemap.text(
+                    self.ctx,
+                    mvp.movemap.bmap.inner.x - mvp.movemap.x + 8, 3,
+                    ["Invalid input, Please try again."]
+                )
+                break
         mvp.movemap.full_show(init=True)
 
 
