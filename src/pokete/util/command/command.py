@@ -34,8 +34,8 @@ class Command:
     @staticmethod
     def __line_setter(lines: list[tuple[str, str]], line_spaces: int):
         return "\n".join(
-            f"\t{line[0]}{" " * (line_spaces - len(line[0]))}{line[1]}" for line
-            in lines
+            f"\t{line[0]}{' ' * (line_spaces - len(line[0]))}{line[1]}"
+            for line in lines
         )
 
     def __print_help(self, ex: str):
@@ -52,15 +52,15 @@ class Command:
 
 Usage:
     {ex}{f" {self.usage}" if self.usage else ""} <flags>
-{f"""
+{f'''
 Options:
 {self.__line_setter(option_lines, line_spaces)}
-""" if self.commands else ""}
-{f"""
+''' if self.commands else ""}
+{f''
 Flags:
 {self.__line_setter(flag_lines, line_spaces)}
-""" if self.flags else ""}
-{f"\n{self.additional_info}\n" if self.additional_info else ""}
+''' if self.flags else ""}
+{f"/n{self.additional_info}/n" if self.additional_info else ""}
 Copyright (c) lxgr-linux <lxgr-linux@protonmail.com> 2024""")
 
     def run(self, ex: str, options: list[str],
