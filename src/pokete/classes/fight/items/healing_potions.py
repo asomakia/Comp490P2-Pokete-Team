@@ -25,4 +25,4 @@ class HealingPotion(GenericeHealingPotion):
 
 class SuperPotion(GenericeHealingPotion):
     def __init__(self):
-        super().__init__(7, "super_potion")
+        super().__init__(5, "super_potion")
