@@ -16,7 +16,7 @@ from ..asset_service.service import asset_service
 from ..classes import OutP
 from ..learnattack import LearnAttack
 from .poke import Poke
-from pokete.util.audio import audio
+from .. import audio
 
 class EvoMap(gm.GameMap, Overview):
     """Map for evolutions to take place on
