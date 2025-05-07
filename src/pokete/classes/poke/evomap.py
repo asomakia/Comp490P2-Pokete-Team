@@ -16,7 +16,7 @@ from ..asset_service.service import asset_service
 from ..classes import OutP
 from ..learnattack import LearnAttack
 from .poke import Poke
-
+from pokete.util.audio import audio
 
 class EvoMap(gm.GameMap, Overview):
     """Map for evolutions to take place on
@@ -71,6 +71,8 @@ class EvoMap(gm.GameMap, Overview):
         self.show()
         time.sleep(SPEED_OF_TIME * 0.01)
         new.moves.shine()
+        audio.kill()
+        audio.play_once("level_up.ogg")
         self.outp.outp(f"{self.name} evolved into {new.name}!")
         time.sleep(SPEED_OF_TIME * 5)
         for i in range(max(len(
