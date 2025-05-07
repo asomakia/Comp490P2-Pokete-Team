@@ -120,18 +120,19 @@ maps: dict[str, MapDict] = {
         "weather": None
     },
     "playmap_7": {
-        "height": 30,
-        "width": 60,
-        "pretty_name": "Dark Cave",
-        "song": "02 Underclocked (underunderclocked mix).mp3",
-        "extra_actions": "playmap_7",
-        "poke_args": {
-            "pokes": ["steini", "bato", "lilstone", "rollator", "gobost"],
-            "minlvl": 200,
-            "maxlvl": 260
+    "height": 30,
+    "width": 60,
+    "pretty_name": "Dark Cave",
+    "song": "02 Underclocked (underunderclocked mix).mp3",
+    "extra_actions": "playmap_7",
+    "poke_args": {
+        "pokes": ["steini", "bato", "lilstone", "rollator", "gobost", "krakaholt"],
+        "minlvl": 200,
+        "maxlvl": 260
         },
         "weather": None
     },
+
     "playmap_8": {
         "height": 20,
         "width": 80,
@@ -420,7 +421,7 @@ maps: dict[str, MapDict] = {
         "song": "xDeviruchi - Minigame .mp3",
         "extra_actions": None,
         "poke_args": {
-            "pokes": ["mowcow", "voglo", "bushy"],
+            "pokes": ["mowcow", "voglo", "bushy", "peachade"],
             "minlvl": 800,
             "maxlvl": 1000
         },
