@@ -1,0 +1,3 @@
+[console_scripts]
+pokete = pokete.__main__:main
+pokete-util = pokete.util.__main__:main
