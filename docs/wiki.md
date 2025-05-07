@@ -1136,7 +1136,7 @@ Sweat and juicy plant pokete thats' looks and thiccness will drive you crazy.
    + [Sweet smell](#sweet-smell)
 - Active: Always
 - Can be found in:
-   + Nowhere
+   + Mowcow Meadow
 - Does not evolve
 
 
